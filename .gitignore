@@ -1,0 +1,70 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache
+.cache/
+models/
+
+# Temporary files
+*.tmp
+temp/
+
+# Data directory (uploads, results, database)
+data/
+
+# Quran data cache
+quran_simple.txt
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+.debug
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+app/static/
